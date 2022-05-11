@@ -8,9 +8,12 @@ Our App is compatible with devices running on Android jelly bean or above jelly 
 For backend technology I uses firebase which is managed by google. It is highly secured and having developer friendly interface. It fetches real time data to it is very useful in real time messaging app.
 
 SRS OF APP:
+
 RAM = 1 GB
+
 ROM = 8 GB
-OS = ANDROID JELLY BEAN 4.3 OR ABOVE![image](https://user-images.githubusercontent.com/63573996/167867180-2a04fbf8-60c2-45fa-8f0b-990d9d06b079.png)
+
+OS = ANDROID JELLY BEAN 4.3 OR ABOVE
 
 
 ![image](https://user-images.githubusercontent.com/63573996/167866129-f1c84886-9c6b-4fe6-88f1-a4117b573dfa.jpeg)
