@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "854144785346",
+    "project_id": "baatcheet-4cb4b",
+    "storage_bucket": "baatcheet-4cb4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854144785346:android:e0cbbc84b2440deaded45b",
+        "android_client_info": {
+          "package_name": "com.coderavi.baatcheet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854144785346-fhcrqvrb1le9ecbqho8f7nudm9a3rpsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlalA-DD4nnWjtohsReHH1r9TzwhePEks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854144785346-fhcrqvrb1le9ecbqho8f7nudm9a3rpsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
